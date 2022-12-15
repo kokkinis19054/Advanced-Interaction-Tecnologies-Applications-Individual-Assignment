@@ -14,7 +14,7 @@ PImage backgroundReplace;
 float threshold = 20;
 
 void setup() {
-  size(320, 240);
+  size(800 , 426);
   video = new Capture(this, width, height);
   video.start();
   // Create an empty image the same size as the video
