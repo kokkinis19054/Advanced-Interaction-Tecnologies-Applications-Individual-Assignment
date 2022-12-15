@@ -1,8 +1,3 @@
-// Learning Processing
-// Daniel Shiffman
-// http://www.learningprocessing.com
-
-// Example 16-12: Simple background removal
 
 // Click the mouse to memorize a current background image
 import processing.video.*;
