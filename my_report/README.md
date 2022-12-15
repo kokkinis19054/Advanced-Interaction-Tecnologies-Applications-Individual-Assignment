@@ -13,7 +13,7 @@
 # 1st Deliverable
 Δημιουργούσα και ένα φάκελο data σε κάθε αρχείο που το ζητούσε μαζί με το .pde του. <br> 
 Video Capture <br>
-Έτρεξα το το <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">Example 16-1</a> και κατέβασα την βιβλιοθήκη "video library for Processing..." αλλά μου εμφάνιζε το παρακάτω error<br>
+Έτρεξα το <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">Example 16-1</a> και κατέβασα την βιβλιοθήκη "video library for Processing..." αλλά μου εμφάνιζε το παρακάτω error<br>
 ![VideoCaptureError](https://user-images.githubusercontent.com/100956242/200703744-3e57e91a-3ca5-4a56-8f65-996ba1b563f4.png)
 
 Record Video<br>
@@ -37,7 +37,19 @@ AR <br>
 
 
 # 2nd Deliverable
+Background Removal <br>
+Δημιούργησα ένα φάκελο data για το πρωτο ζητούμενο που το ζητούσε μαζί με το .pde του.. <br>
+Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-12-Capture">Example 16-12</a> από το βιβλίο Learning Processing,2nd Edition, αντέγραψα τον κώδικα, έκανα κάποιες μετατροπές πάνω σε αυτόν.Τέλος, τον επεξεργάστηκα έτσι ώστε όπου υπήρχε πράσινο χρώμα στο background να εμφανίζει την εικόνα που εισήγαγα. <br>
 
+Motion Detection <br>
+Πρώτα διάβασα τα παραδείγματα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a> και <a href="http://learningprocessing.com/examples/chp16/example-16-13-Capture">Example 16-13</a> και στη συνέχεια επεξεργάστηκα την άσκηση 16-7, αυτό που έκανα δηλαδή ηταν να ορίσω μέγεθος, χρώμα και σχήμα.Τέλος, έτρεξα το processing. <br>
+
+
+Background Substraction <br>
+Πρόσθεσα την βιβλιοθήκη "OpenCV for Processing", στη συνέχεια επεξεργάστηκα τον κώδικα "BackgroundSubstraction" , έκανα κάποιες μετατροπές στον κώδικα, όρισα το χρώμα και έτρεξα το processing. <br>
+
+Object Tracking <br>
+Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>  από το βιβλίο Learning Processing, 2nd Edition, αντέγραψα υον κώδικα και μετά το τρεξα στο Processing. Υστερα πρόσθεσα τον κώδικα από το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> και άλλαξα κάποιες εντολές για να δουλεύει με τον κώδικα του παραδείγματος <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>. Έτσι, αυτό που εμφανιζόταν στην οθόνη είναι εκεί που έκανε tracking κάτι σε μπλε απόχρωση να εμφανίζεται κόκκινο χρώμα και να αφήνει μία μάυρη ουρά πίσω του. <br>
 
 # 3rd Deliverable 
 
