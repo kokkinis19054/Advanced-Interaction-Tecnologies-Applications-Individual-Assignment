@@ -75,7 +75,7 @@ void draw() {
 
   smooth(8);
   noStroke();
-  fill(200, 200, );
+  fill(200, 200, 0);
   rect(avgX, avgY, 75, 85);
 
 }
