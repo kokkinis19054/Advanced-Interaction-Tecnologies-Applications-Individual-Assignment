@@ -49,7 +49,7 @@ Background Substraction <br>
 Πρόσθεσα την βιβλιοθήκη "OpenCV for Processing", στη συνέχεια επεξεργάστηκα τον κώδικα "BackgroundSubstraction" , έκανα κάποιες μετατροπές στον κώδικα, όρισα το χρώμα και έτρεξα το processing. <br>
 
 Object Tracking <br>
-Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>  από το βιβλίο Learning Processing, 2nd Edition, αντέγραψα υον κώδικα και μετά το τρεξα στο Processing. Υστερα πρόσθεσα τον κώδικα από το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> και άλλαξα κάποιες εντολές για να δουλεύει με τον κώδικα του παραδείγματος <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>. Έτσι, αυτό που εμφανιζόταν στην οθόνη είναι εκεί που έκανε tracking κάτι σε μπλε απόχρωση να εμφανίζεται κόκκινο χρώμα και να αφήνει μία μάυρη ουρά πίσω του. <br>
+Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>  από το βιβλίο Learning Processing, 2nd Edition, αντέγραψα υον κώδικα και μετά το τρεξα στο Processing. Υστερα πρόσθεσα τον κώδικα από το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> και άλλαξα κάποιες εντολές για να δουλεύει με τον κώδικα του παραδείγματος <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>. Έτσι, αυτό που εμφανιζόταν στην οθόνη είναι εκεί που έκανε tracking ένα αντικείμενο σε κόκκινη απόχρωση να αφήνει μία μάυρη ουρά πίσω του. <br>
 
 # 3rd Deliverable 
 
