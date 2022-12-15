@@ -38,18 +38,19 @@ AR <br>
 
 # 2nd Deliverable
 Background Removal <br>
-Δημιούργησα ένα φάκελο data για το πρωτο ζητούμενο που το ζητούσε μαζί με το .pde του.. <br>
-Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-12-Capture">Example 16-12</a> από το βιβλίο Learning Processing,2nd Edition, αντέγραψα τον κώδικα, έκανα κάποιες μετατροπές πάνω σε αυτόν.Τέλος, τον επεξεργάστηκα έτσι ώστε όπου υπήρχε πράσινο χρώμα στο background να εμφανίζει την εικόνα που εισήγαγα. <br>
+Δημιούργησα ένα φάκελο data για το πρωτο ζητούμενο με την εικόνα που το ζητούσε μαζί με το .pde του.. <br>
+Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-12-Capture">Example 16-12</a> από το βιβλίο Learning Processing,2nd Edition, αντέγραψα τον κώδικα, έκανα κάποιες μετατροπές πάνω σε αυτόν.Τέλος, έκανα πειράματα σε έναν πράσινο τοίχο του Πανεπηστημιού μας έτσι ώστε όπου υπήρχε πράσινο χρώμα στο background να εμφανίζει την εικόνα που εισήγαγα. <br>
 
 Motion Detection <br>
 Πρώτα διάβασα τα παραδείγματα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a> και <a href="http://learningprocessing.com/examples/chp16/example-16-13-Capture">Example 16-13</a> και στη συνέχεια επεξεργάστηκα την άσκηση 16-7, αυτό που έκανα δηλαδή ηταν να ορίσω μέγεθος, χρώμα και σχήμα.Τέλος, έτρεξα το processing. <br>
 
 
 Background Substraction <br>
-Πρόσθεσα την βιβλιοθήκη "OpenCV for Processing", στη συνέχεια επεξεργάστηκα τον κώδικα "BackgroundSubstraction" , έκανα κάποιες μετατροπές στον κώδικα, όρισα το χρώμα και έτρεξα το processing. <br>
+Πρόσθεσα την βιβλιοθήκη "OpenCV for Processing", στη συνέχεια επεξεργάστηκα τον κώδικα "BackgroundSubstraction" , έκανα κάποιες μετατροπές στον κώδικα, όρισα το χρώμα και έτρεξα το processing.Ερώτηση: Ποιά είναι τα πλεονεκτήματα και μειονεκτήματα της έτοιμης βιβλιοθήκης έναντι του κώδικα από το πρώτο ερώτημα? Τα πλεονέκτηματα με την χρήση της βιβλιοθήκης αυτής ηταν η μεγαλύτερη ευκολία στην διαδικασία και στον εντοπισμό των κινήσεων του σωματος. Τα μειονεκτήματα της ήταν η δυσκολία στην εγκατάσταση της. <br>
 
 Object Tracking <br>
-Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>  από το βιβλίο Learning Processing, 2nd Edition, αντέγραψα υον κώδικα και μετά το τρεξα στο Processing. Υστερα πρόσθεσα τον κώδικα από το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> και άλλαξα κάποιες εντολές για να δουλεύει με τον κώδικα του παραδείγματος <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>. Έτσι, αυτό που εμφανιζόταν στην οθόνη είναι εκεί που έκανε tracking ένα αντικείμενο σε κόκκινη απόχρωση να αφήνει μία μάυρη ουρά πίσω του. <br>
+Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>  από το βιβλίο Learning Processing, 2nd Edition, αντέγραψα υον κώδικα και μετά το τρεξα στο Processing. Υστερα πρόσθεσα τον κώδικα από το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> και άλλαξα κάποιες εντολές για να δουλεύει με τον κώδικα του παραδείγματος <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>. Έτσι, αυτό που εμφανιζόταν στην οθόνη είναι εκεί που έκανε tracking ένα αντικείμενο σε κόκκινη απόχρωση να αφήνει μία μάυρη ουρά πίσω του.Ερώτηση: Σε σχέση με το παραδοσιακό ποντίκι ποια είναι τα πλεονεκτήματα και ποια τα μειονεκτήματα αυτής της τεχνικής ελέγχου ενός ή περισσότερων σημείων σε μια οθόνη? Τα πλεονεκτήματα είναι ότι απαιτείται μόνο η ύπαρξη κάμερας, οτί μπορεί να γίνει και από απόσταση και ότι υπάρχει μεγαλύτερη ευκολία πρόσβασης, ενώ τα  μειωνεκτήματα είναι οτί δεν είναι είναι τόσο αποτελεσματικό, κολλάει μερικές φορές και υπάρχουν περισσότεροι περιορισμοί. <br>
+
 
 # 3rd Deliverable 
 
