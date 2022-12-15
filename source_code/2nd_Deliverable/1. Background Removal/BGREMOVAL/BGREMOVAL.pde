@@ -11,7 +11,7 @@ PImage backgroundImage;
 PImage backgroundReplace;
 
 // How different must a pixel be to be a foreground pixel
-float threshold = 17;
+float threshold = 20;
 
 void setup() {
   size(320, 240);
@@ -57,7 +57,7 @@ void draw() {
         // If so, display the foreground color
         pixels[loc] = fgColor;
       } else {
-        // If not, display green
+        // If not, display the batman image
         pixels[loc] = backgroundReplace.pixels[loc];
       }
     }
@@ -69,8 +69,8 @@ void mousePressed() {
   // Copying the current frame of video into the backgroundImage object
   // Note copy takes 5 arguments:
   // The source image
-  // x, y, width, and height of region to be copied from the source
-  // x, y, width, and height of copy destination
+  // x,y,width, and height of region to be copied from the source
+  // x,y,width, and height of copy destination
   backgroundImage.copy(video, 0, 0, video.width, video.height, 0, 0, video.width, video.height);
   backgroundImage.updatePixels();
 }
