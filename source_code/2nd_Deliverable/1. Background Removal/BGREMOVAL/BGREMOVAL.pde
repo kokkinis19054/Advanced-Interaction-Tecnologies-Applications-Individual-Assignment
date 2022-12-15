@@ -15,7 +15,7 @@ float threshold = 20;
 
 void setup() {
   size(800 , 426);
-  video = new Capture(this, width, height);
+  video = new Capture(this, width, height, 30);
   video.start();
   // Create an empty image the same size as the video
   backgroundImage = createImage(video.width, video.height, RGB);
@@ -28,6 +28,9 @@ void captureEvent(Capture video) {
 }
 
 void draw() {
+ // Map the threshold to mouse location
+  threshold = map(mouseX, 0, width, 5, 50);
+  
   // We are looking at the video's pixels, the memorized backgroundImage's pixels, as well as accessing the display pixels. 
   // So we must loadPixels() for all!
   loadPixels();
