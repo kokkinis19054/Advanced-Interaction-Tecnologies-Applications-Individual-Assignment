@@ -39,10 +39,10 @@ AR <br>
 # 2nd Deliverable
 Background Removal <br>
 Δημιούργησα ένα φάκελο data για το πρωτο ζητούμενο με την εικόνα που το ζητούσε μαζί με το .pde του.. <br>
-Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-12-Capture">Example 16-12</a> από το βιβλίο Learning Processing,2nd Edition, αντέγραψα τον κώδικα, έκανα κάποιες μετατροπές πάνω σε αυτόν.Τέλος, έκανα πειράματα σε έναν πράσινο τοίχο του Πανεπηστημιού μας έτσι ώστε όπου υπήρχε πράσινο χρώμα στο background να εμφανίζει την εικόνα που εισήγαγα. <br>
+Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-12-Capture">Example 16-12</a> από το βιβλίο Learning Processing,2nd Edition, αντέγραψα τον κώδικα, έκανα κάποιες μετατροπές πάνω σε αυτόν (άλλαξα το size και το έκανα ίδιο με την εικόνα που εισήγαγα, έκανα το threshold 20).Τέλος, έκανα πειράματα σε έναν πράσινο τοίχο του Πανεπηστημιού μας έτσι ώστε όπου υπήρχε πράσινο χρώμα στο background να εμφανίζει την εικόνα που εισήγαγα. <br>
 
 Motion Detection <br>
-Πρώτα διάβασα τα παραδείγματα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a> και <a href="http://learningprocessing.com/examples/chp16/example-16-13-Capture">Example 16-13</a> και στη συνέχεια επεξεργάστηκα την άσκηση 16-7, αυτό που έκανα δηλαδή ηταν να ορίσω μέγεθος, χρώμα και σχήμα.Τέλος, έτρεξα το processing. <br>
+Πρώτα διάβασα τα παραδείγματα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a> και <a href="http://learningprocessing.com/examples/chp16/example-16-13-Capture">Example 16-13</a> και στη συνέχεια επεξεργάστηκα την άσκηση 16-7, αυτό που έκανα δηλαδή ηταν να ορίσω μέγεθος, χρώμα και σχήμα.Τέλος, έτρεξα το processing και εμφανιζιζόταν ένα κίτρινο ορθογώνιο 'οπυ ακολουθούσε την κίνηση του χεριού μου. <br>
 
 
 Background Substraction <br>
