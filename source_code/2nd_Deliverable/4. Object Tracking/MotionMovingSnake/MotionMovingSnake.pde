@@ -73,7 +73,7 @@ void draw() {
   for (int i = 0; i < xpos.length; i ++) {
 
     noStroke();
-    fill(255-i*5);
+    fill(255-i*5,0,0);
     ellipse(xpos[i],ypos[i],i,i);
   }
 }
