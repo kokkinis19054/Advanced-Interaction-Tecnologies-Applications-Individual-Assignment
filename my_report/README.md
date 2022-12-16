@@ -50,7 +50,9 @@ Background Substraction <br>
 
 Object Tracking <br>
 Διάβασα το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>  από το βιβλίο Learning Processing, 2nd Edition, αντέγραψα υον κώδικα και μετά το τρεξα στο Processing. Υστερα πρόσθεσα τον κώδικα από το παράδειγμα <a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> και άλλαξα κάποιες εντολές για να δουλεύει με τον κώδικα του παραδείγματος <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a>. Έτσι, αυτό που εμφανιζόταν στην οθόνη είναι εκεί που έκανε tracking ένα αντικείμενο σε κίτρινη απόχρωση να αφήνει μία μαυροκόκκινη ουρά πίσω του.Ερώτηση: Σε σχέση με το παραδοσιακό ποντίκι ποια είναι τα πλεονεκτήματα και ποια τα μειονεκτήματα αυτής της τεχνικής ελέγχου ενός ή περισσότερων σημείων σε μια οθόνη? Τα πλεονεκτήματα είναι ότι απαιτείται μόνο η ύπαρξη κάμερας, οτί μπορεί να γίνει και από απόσταση και ότι υπάρχει μεγαλύτερη ευκολία πρόσβασης, ενώ τα  μειωνεκτήματα είναι οτί δεν είναι είναι τόσο αποτελεσματικό, κολλάει μερικές φορές και υπάρχουν περισσότεροι περιορισμοί. <br>
-![2022-12-16 (22)](https://user-images.githubusercontent.com/100956242/208106711-8597ed7c-8b57-473b-9062-62b89b07f278.png)
+![2022-12-16 (22)](https://user-images.githubusercontent.com/100956242/208106711-8597ed7c-8b57-473b-9062-62b89b07f278.png) <br>
+
+![2022-12-16 (7)](https://user-images.githubusercontent.com/100956242/208113480-eec4b8e0-b2f9-446d-9ca3-e818e0f70a06.png)
 
 
 # 3rd Deliverable 
