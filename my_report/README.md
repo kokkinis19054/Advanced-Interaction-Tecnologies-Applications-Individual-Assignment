@@ -62,14 +62,26 @@ Object Tracking <br>
  ![2023-01-07 (4)](https://user-images.githubusercontent.com/100956242/211156296-1c94c348-e068-4d8b-a59e-add5852193f5.png) <br>
  ![2023-01-07 (5)](https://user-images.githubusercontent.com/100956242/211156317-496689fe-c07b-4f6f-8971-a5dcc28d5f52.png) <br>
 
-Μετά την παρακολούθηση κάποιον βίντεο από εδώ (https://www.youtube.com/results?search_query=TUIO+and+processing) 
-![CAT5](https://user-images.githubusercontent.com/100956242/211167191-c3141cbb-4fab-4e1f-9c51-29dca6be777d.png) <br>
+Μετά την παρακολούθηση κάποιων βίντεο από εδώ (https://www.youtube.com/results?search_query=TUIO+and+processing), κατάλαβα τι έπρεπε να κάνω με βάση το παράδειγμα κώδικα του TUIO demo και έκανα τις εξής μετατροπές έτσι ώστε να εντοπίζει ο simulator τους διάφορους κωδικούς που χρησιμοποιήσα με την κάμερα και να εμφανίζει αντίστοιχα μια εικόνα (όπου δημιούργησα και ένα φάκελο data στον φάκελο του processing στον υπολογιστή μου και έπειτα πρόσθεσα το αρχείο με τις εικόνες μέσα στο processing). Ύστερα, ήθελα να πρσαρμώσω κάποιους από τους κωδικούς να έχουν συγκερκιμένες λειτουργίες και έτσι βρήκα ένα παράδειγμα από το (https://forum.processing.org/two/discussion/4991/help-with-detecting-fiducial-markers) και στην συνέχεια μπήκα στο (https://processing.org/) και έψαξα κάποια φίλτρα μπαίνοντας στο Documentation-Reference-Image-Pixels και για το πως αυξομειώνω μεγέθη στο Documentation-Reference-Transform. Τέλος, προσάρμοσα αυτά τα παραδείγματα με τις ανάλογες μετατροπές στον αρχικό κώδικα και τον εκτέλεσα με αποτέλεσμα: <br>
+Το ID=5 εμφανίζει την (CAT2.jpg) <br>
+
+![CAT5](https://user-images.githubusercontent.com/100956242/211167191-c3141cbb-4fab-4e1f-9c51-29dca6be777d.png) <br> 
+
+Το ID=6 εμφανίζει την (CAT1.jpg) <br>
 ![CAT6](https://user-images.githubusercontent.com/100956242/211167195-51db2205-4476-4b19-b595-aaffdb3f7b84.png) <br>
+
+Το ID=5 μαζί με ID=3 και αντίστοιχα το ID=6 με ID=3 κάνει (Posterize) <br>
 ![POSTERIZE5](https://user-images.githubusercontent.com/100956242/211167205-c249a18d-f39e-4482-99b2-147a7df69561.png) <br>
 ![POSTERIZE6](https://user-images.githubusercontent.com/100956242/211167213-593fd696-0413-4449-a7c6-571e24aab523.png) <br>
+
+Το ID=5 μαζί με ID=4 και αντίστοιχα το ID=6 με ID=4 κάνει (Blur) <br>
 ![BLUR5](https://user-images.githubusercontent.com/100956242/211167161-c0d0f91a-fb6c-49cd-aff4-a600f98369fa.png) <br>
 ![BLUR6](https://user-images.githubusercontent.com/100956242/211167169-2de6c771-e794-4c17-8f05-76cbfc4a8cc3.png) <br>
+
+Το ID=5 μαζί με ID=2 και αντίστοιχα με ID=6 αλλάζει το (Scale) <br>
 ![SCALE5](https://user-images.githubusercontent.com/100956242/211167218-fac91b36-2a6c-403f-a83f-c8aa010d53ca.png) <br>
+
+Και το ID=5 με ID=6 εμφανίζει τις δυο εικόνες ενωμένες. <br>
 ![CAT5,6](https://user-images.githubusercontent.com/100956242/211167173-cd2113d7-55d6-4eb7-b72c-0562de5264da.png) <br>
 
 
