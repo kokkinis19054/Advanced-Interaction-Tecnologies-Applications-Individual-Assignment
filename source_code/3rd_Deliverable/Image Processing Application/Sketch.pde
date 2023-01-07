@@ -5,8 +5,8 @@ float object_size = 60;
 float table_size = 760;
 float scale_factor = 1;
 boolean showImage = false;
-boolean verbose = false; // print console debug messages
-boolean callback = true; // updates only after callbacks
+boolean verbose = false;
+boolean callback = true; 
 int posX, posY;
 PFont font;
 PImage img;
@@ -32,7 +32,7 @@ void setup()
     loop();
   } 
   
-  else noLoop(); // or callback updates 
+  else noLoop();  
   
   font = createFont("Arial", 18);
   scale_factor = height/table_size;
