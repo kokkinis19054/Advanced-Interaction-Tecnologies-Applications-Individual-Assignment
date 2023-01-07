@@ -57,6 +57,7 @@ Object Tracking <br>
 
 # 3rd Deliverable 
 Αρχικά, έκανα την εγκατάσταση της εφαρμογής reacTIVision vision engine στον υπολογιστή μου, στη συνέχεια εγκατέστησα την βιβλιοθήκη reacTIVision, την τοποθέτησα στο folder του Processing, κατέβασα το TUIO Simulator και μετά εκτέλεσα το TuioDemo. Στην αρχή ήταν μόνο άσπρη η εικόνα και όταν άρχισα να βάζω τα διάφορα σχήματα μέσα στον κύκλο που εμφανίζεται στο simulator, εμφανίστηκαν τα αντίστοιχα μάυρα κουτάκια με τους αριθμούς στην θέση των σχημάτων και οποιοδήποτε μετακινούσα στο simulator, το ίδιο συνέβαινε και με τα κουτάκια. <br>
+![2023-01-07 (1)](https://user-images.githubusercontent.com/100956242/211154004-23b49b75-ced7-4ba7-a4d4-371d3e467f47.png) <br>
 ![2023-01-02](https://user-images.githubusercontent.com/100956242/210279002-992a4006-23d5-4847-8eb9-5a4d32ffb6b9.png) <br>
 ![Merkourhs](https://user-images.githubusercontent.com/100956242/210279032-f02875ee-6278-4067-8c94-36284d9c0b74.png) <br>
 
