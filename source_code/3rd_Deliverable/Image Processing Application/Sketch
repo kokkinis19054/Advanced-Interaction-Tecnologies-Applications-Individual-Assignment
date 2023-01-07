@@ -107,5 +107,4 @@ void removeTuioObject(TuioObject tobj) {
 
 void refresh(TuioTime frameTime) {
   if (verbose) println("frame #"+frameTime.getFrameID()+" ("+frameTime.getTotalMilliseconds()+")");
-  if (callback) redraw();
-}
+  if
