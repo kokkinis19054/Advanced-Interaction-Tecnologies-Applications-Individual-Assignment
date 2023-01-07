@@ -24,6 +24,8 @@ void setup()
   noStroke();
   fill(0);
   
+  
+
 
   if (!callback) {
     frameRate(60);
@@ -53,7 +55,7 @@ void draw()
 TuioObject tobj = tuioObjectList.get(i);
      
       
-if(tobj.getSymbolID() == 3){
+if(tobj.getSymbolID() == 6){
   
      stroke(0);
      fill(0,0,0);
@@ -65,7 +67,7 @@ if(tobj.getSymbolID() == 3){
      showImage = true; }
      
      
-if(tobj.getSymbolID() == 4){
+if(tobj.getSymbolID() == 5){
   
      stroke(0);
      fill(0,0,0);
@@ -76,9 +78,15 @@ if(tobj.getSymbolID() == 4){
      image(img2, posX, posY, width/4, height/2);
      showImage = true; }
    
-if (tobj.getSymbolID()==0) {filter(INVERT);}
-if (tobj.getSymbolID()==1) {filter(GRAY);} 
-if (tobj.getSymbolID()==2) {scale(1.5,1.5);} 
+
+   
+if (tobj.getSymbolID()==4) {filter(BLUR, 5);}
+
+
+if (tobj.getSymbolID()==3) {filter(POSTERIZE, 9);} 
+
+
+if (tobj.getSymbolID()==2) {scale(1.6,1.8);} 
      
   }
    
