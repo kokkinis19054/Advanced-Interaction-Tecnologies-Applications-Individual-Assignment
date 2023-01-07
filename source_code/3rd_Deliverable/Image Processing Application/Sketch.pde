@@ -15,8 +15,8 @@ PImage img2;
 void setup()
 { 
     
-  img = loadImage("fimage.jpg");
-  img2 = loadImage("simage.jpg");
+  img = loadImage("CAT1.jpg");
+  img2 = loadImage("CAT2.jpg");
 
 
   noCursor();
