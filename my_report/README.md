@@ -92,6 +92,9 @@ Object Tracking <br>
 
 
 # Conclusions
-https://youtu.be/qKXlI4zAMAY
+
 
 # Sources
+Tutorial Tuio + reacTIVision en processing: https://youtu.be/qKXlI4zAMAY
+Tutorial Tuio Simulator Processing: https://youtu.be/tJ0aZzST-N4
+
