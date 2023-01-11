@@ -6,6 +6,7 @@
 ### Advanced Interaction Tecnologies & Applications Github Personal Repository: <a href="https://github.com/kokkinis19054/Advanced-Interaction-Tecnologies-Applications-Individual-Assignment">AITA GitHub Profile</a> 
 
 # Introduction
+Σύμφωνα με τα βήματα κατέβασα την εκδοχή 3.5.4 του Processing για να αρχίσω να δουλέυω πάνω στο κάθε ζητούμενο που μου ανατέθηκε.
 
 # Summary
 
