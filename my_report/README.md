@@ -102,13 +102,13 @@
 Examples:  <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">Example 16-1</a>  <br>
 <a href="https://medium.com/a-curious-beginners-guide-to-building-your-first/my-first-ar-exploration-with-processing-71ffaf3e7418">προτεινόμενο παράδειγμα</a>  <br>
           <br>
-2cond Deliverable: <br>
+2nd Deliverable: <br>
 Examples: <a href="http://learningprocessing.com/examples/chp16/example-16-12-Capture">Example 16-12</a> <br>
 <a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a> <br>
 <a href="http://learningprocessing.com/examples/chp16/example-16-13-Capture">Example 16-13</a> <br>
 <a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> <br>
 <br>
-3ed Deliverable: <br>
+3rd Deliverable: <br>
 Tutorials: Tuio + reacTIVision en processing: https://youtu.be/qKXlI4zAMAY <br>
            Tuio Simulator Processing: https://youtu.be/tJ0aZzST-N4 <br>
 Examples: https://forum.processing.org/ <br>
