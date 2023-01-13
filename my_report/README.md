@@ -96,7 +96,20 @@
 Αρχικά, αυτή η διεπαφή μεταξύ του χρήστη και της τεχνολογίας είχε πολύ ενδιαφέρον, λόγω της αλληλεπίδρασης ήταν πολύ πιο ευχάριστη διαδικασία από το να σχεδιάζεις π.χ ένα πρόγραμμα στο visual studio. Τα ζητούμενα που μας θέσατε ήταν υλοποιήσιμα, περισσότερο φαινόντουσαν δύσκολα στην αρχή (λόγω του οτι ήταν η πρώτη μας επαφή με αυτά) από οτι ήταν στην πραγματικότητα. Το Processing ήταν όντως ένα προγραμματιστικό περιβάλλον πολύ φιλικό ως προς τον χρήστη αλλά πιστεύω έχει ακόμα πολλά περιθώρια βελτίωσης ως προς την αποδοτικότητα του. Πριν το μάθημα περίμενα οτι το κομμάτι της κιναισθητικής θα ήταν κατι πολύ εξειδικευμένο, ενώ τωρα θεωρώ οτι μπορεί να ασχοληθεί ο καθ΄ένας αρκεί να έχει όρεξη.
 
 # Sources
-Tutorial Tuio + reacTIVision en processing: https://youtu.be/qKXlI4zAMAY <br>
-Tutorial Tuio Simulator Processing: https://youtu.be/tJ0aZzST-N4 <br>
-Example: https://forum.processing.org/
-
+1st Deliverable: <br>
+Examples:  <a href="http://learningprocessing.com/examples/chp16/example-16-01-Capture">Example 16-1</a>  <br>
+<a href="https://medium.com/a-curious-beginners-guide-to-building-your-first/my-first-ar-exploration-with-processing-71ffaf3e7418">προτεινόμενο παράδειγμα</a>  <br>
+          <br>
+2cond Deliverable: <br>
+Examples: <a href="http://learningprocessing.com/examples/chp16/example-16-12-Capture">Example 16-12</a> <br>
+<a href="http://learningprocessing.com/examples/chp16/example-16-11-Capture">Example 16-11</a> <br>
+<a href="http://learningprocessing.com/examples/chp16/example-16-13-Capture">Example 16-13</a> <br>
+<a href="http://learningprocessing.com/examples/chp16/example-9-8-Capture">Example 9-8</a> <br>
+<br>
+3ed Deliverable: <br>
+Tutorials: Tuio + reacTIVision en processing: https://youtu.be/qKXlI4zAMAY <br>
+           Tuio Simulator Processing: https://youtu.be/tJ0aZzST-N4 <br>
+Examples: https://forum.processing.org/ <br>
+(https://forum.processing.org/two/discussion/4991/help-with-detecting-fiducial-markers)  <br>
+https://processing.org/reference/filter_.html <br>
+https://processing.org/reference/scale_.html <br>
